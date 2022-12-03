@@ -1,0 +1,43 @@
+.contenedor {
+  background-color: rgba(252, 250, 251, 0.466);
+  padding-left: calc(10vw - 200px);
+  color: rgb(10, 10, 10);
+  top: calc(50vh - 180px);
+  padding: 25px;
+  padding-top: 200px;
+  border-radius: 22px;
+
+  width: 25%;
+  font-size: 80px;
+  position: fixed;
+  align-items: center;
+
+}
+.butt{
+  background-color: rgb(62, 161, 185);
+  border-color: rgb(62, 161, 185);
+  font-size: 15px;
+}
+
+.fondo {
+  background-color: rgb(184, 196, 204);
+  width: 20%;
+  padding: 40px;
+  font-size: 30px;
+  border-radius: 10px;
+}
+
+.blocker {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  z-index: 50;
+}
+
+.in
+{
+  font-size: 15px;
+
+}
